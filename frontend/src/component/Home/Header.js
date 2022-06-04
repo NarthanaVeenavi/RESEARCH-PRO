@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Nav, Navbar, Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import { FiUser } from "react-icons/fi";
 import { FiLogOut, FiUser } from "react-icons/fi";
 
 const Header = () => {
