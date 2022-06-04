@@ -1,0 +1,89 @@
+.login-page{
+    max-width: 800px;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 40px auto;
+}
+
+.login-page h2{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #555;
+}
+
+.login-page form input,.login-page form select,.login-page form textarea,
+.login-page form button{
+    width: 100%;
+    height: 40px;
+    margin: 10px 0;
+    padding: 0 5px;
+    outline: rgb(3, 165, 206);
+    border: 1px solid rgb(3, 165, 206);
+    border-radius: 4px;
+}
+
+.login-page form .row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login-page form button{
+    width: 437px;
+    background: rgb(3, 165, 206);
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.login-page form a{
+    color: rgb(153, 153, 153);
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+}
+
+.login-page form a:hover{
+    color: orange;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+}
+
+.login-page form{
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(143, 143, 143);
+    border-radius: 5px;
+    padding: 30px;
+    margin-left: 4cm;
+    margin-top: 1cm;
+    background-color: #555;
+}
+
+#text2{
+    color: rgb(255, 255, 255);
+    font-size: 39px;
+    font-family:initial;
+    margin-left: 3.58cm;
+}
+
+#link1{
+    margin-top: 1cm;
+}
+
+#text3{
+    color: rgb(255, 255, 255);
+    margin-left: 0cm;
+}
+
+#text4{
+    color: rgb(167, 167, 167);
+    margin-left: 2.5cm;
+}
+
+#text5{
+    color: #555;
+    font-size: 39px;
+    font-family:initial;
+    margin-left: 3cm;
+}
