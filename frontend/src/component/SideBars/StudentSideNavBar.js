@@ -8,6 +8,10 @@ import { FiUser } from "react-icons/fi";
 import UserModaldelete from "./UserModalDelete";
 import { useNavigate } from "react-router-dom";
 import { Button } from "react-bootstrap";
+import { FiLogOut, FiUser } from "react-icons/fi";
+import UserModaldelete from "./UserModalDelete";
+import { useNavigate } from "react-router-dom";
+import { Container, Nav, Navbar, Button } from "react-bootstrap";
 
 const StudentSideNavBar = () => {
   const [modalDelete, setModalDelete] = React.useState(false);

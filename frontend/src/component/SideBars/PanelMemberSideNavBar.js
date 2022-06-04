@@ -5,6 +5,7 @@ import { panelsidenavbarData } from "./SideNavBarData";
 import "./NavBar.css";
 import { IconContext } from "react-icons";
 import { FiUser } from "react-icons/fi";
+import { FiLogOut, FiUser } from "react-icons/fi";
 import UserModaldelete from "./UserModalDelete";
 import { useNavigate } from "react-router-dom";
 import { Button } from "react-bootstrap";
